@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/ex1"/>
+	<classpathentry kind="src" path="src/ex2/RecursivaEx2/src"/>
+	<classpathentry kind="src" path="ex3"/>
+	<classpathentry kind="output" path="src/ex2/RecursivaEx2/bin"/>
+</classpath>
