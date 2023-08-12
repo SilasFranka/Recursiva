@@ -4,5 +4,10 @@
 	<classpathentry kind="src" path="src/ex1"/>
 	<classpathentry kind="src" path="src/ex2/RecursivaEx2/src"/>
 	<classpathentry kind="src" path="ex3"/>
+	<classpathentry kind="src" path="exe4">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="src/ex2/RecursivaEx2/bin"/>
 </classpath>
