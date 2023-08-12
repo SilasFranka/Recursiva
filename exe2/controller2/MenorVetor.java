@@ -1,12 +1,11 @@
-package controller;
+package controller2;
 
 public class MenorVetor {
 
 	public MenorVetor() {
 		super();
 	}
-	
-	public int verificaVetor(int[]vetor, int tamanho, int menor ) {
+public int verificaVetor(int[]vetor, int tamanho, int menor ) {
 		
 		
 		if(tamanho==0) {

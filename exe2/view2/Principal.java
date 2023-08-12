@@ -1,6 +1,6 @@
-package view;
+package view2;
 
-import controller.MenorVetor;
+import controller2.MenorVetor;
 
 public class Principal {
 
