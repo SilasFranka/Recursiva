@@ -11,7 +11,7 @@ public class soma {
 			return 0;
 		}
 		
-		return  1+(1/(1+(SomaDouble(n-1))));
+		return  (SomaDouble(n-1)+ (1/(n)));
 	}
 
 }
