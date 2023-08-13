@@ -9,5 +9,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="exe1"/>
 	<classpathentry kind="src" path="exe2"/>
+	<classpathentry kind="src" path="exe5"/>
 	<classpathentry kind="output" path="src/ex2/RecursivaEx2/bin"/>
 </classpath>
